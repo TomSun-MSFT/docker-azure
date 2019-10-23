@@ -17,9 +17,9 @@ jobs:
     vmImage: 'ubuntu-latest'
 
   variables:
-    dockerId: tbillah
-    imageName: tbillah/entry_point
-    user: pnlbwh
+    dockerId: wxtom
+    imageName: wxtom/flask
+    user: wxtom
     wd: /home
 
 
